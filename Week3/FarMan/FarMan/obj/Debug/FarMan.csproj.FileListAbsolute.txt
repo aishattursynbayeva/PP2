@@ -5,3 +5,10 @@ C:\Users\Айшат\Desktop\PP2\Week3\FarMan\FarMan\obj\Debug\FarMan.csprojAssem
 C:\Users\Айшат\Desktop\PP2\Week3\FarMan\FarMan\obj\Debug\FarMan.csproj.CoreCompileInputs.cache
 C:\Users\Айшат\Desktop\PP2\Week3\FarMan\FarMan\obj\Debug\FarMan.exe
 C:\Users\Айшат\Desktop\PP2\Week3\FarMan\FarMan\obj\Debug\FarMan.pdb
+C:\git\PP2\Week3\FarMan\FarMan\bin\Debug\FarMan.exe.config
+C:\git\PP2\Week3\FarMan\FarMan\bin\Debug\FarMan.exe
+C:\git\PP2\Week3\FarMan\FarMan\bin\Debug\FarMan.pdb
+C:\git\PP2\Week3\FarMan\FarMan\obj\Debug\FarMan.csprojAssemblyReference.cache
+C:\git\PP2\Week3\FarMan\FarMan\obj\Debug\FarMan.csproj.CoreCompileInputs.cache
+C:\git\PP2\Week3\FarMan\FarMan\obj\Debug\FarMan.exe
+C:\git\PP2\Week3\FarMan\FarMan\obj\Debug\FarMan.pdb

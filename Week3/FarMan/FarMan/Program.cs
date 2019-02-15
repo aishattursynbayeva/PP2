@@ -130,8 +130,10 @@ namespace FarMan
                         size = files.Length;
                         cursor = 0;
                     }
-                    else if (consoleKey.Key == ConsoleKey.R)
+                    else if (consoleKey.Key == ConsoleKey.S)
                     {
+                        Console.Clear();
+                        Console.BackgroundColor = ConsoleColor.Black;
                         string s = Console.ReadLine();
                         ConsoleKeyInfo k = Console.ReadKey();
                         s = Path.Combine(directory.FullName, s);
