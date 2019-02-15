@@ -95,7 +95,7 @@ namespace FarMan
 
             ConsoleKeyInfo consoleKey = Console.ReadKey();
             FileSystemInfo fs = null;
-            while (consoleKey.Key != ConsoleKey.Spacebar)                      //работает до тех пор пока не нажмем на Pause
+            while (consoleKey.Key != ConsoleKey.Spacebar)                      //работает до тех пор пока не нажмем на Space
             {
                 DirectoryInfo directory = new DirectoryInfo(path);
                 Console.BackgroundColor = ConsoleColor.Black;
