@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfMark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mark>
+    <points>75</points>
+    <LetterMark>Your mark is B- c:</LetterMark>
+  </Mark>
+  <Mark>
+    <points>89</points>
+    <LetterMark>Your mark is B+ c:</LetterMark>
+  </Mark>
+  <Mark>
+    <points>90</points>
+    <LetterMark>Your mark is A- c:</LetterMark>
+  </Mark>
+  <Mark>
+    <points>50</points>
+    <LetterMark>Your mark is F c:</LetterMark>
+  </Mark>
+  <Mark>
+    <points>45</points>
+    <LetterMark>Your mark is F c:</LetterMark>
+  </Mark>
+</ArrayOfMark>
